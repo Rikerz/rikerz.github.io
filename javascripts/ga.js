@@ -8,6 +8,6 @@
 ga('create', 'UA-58359114-1', 'auto');
 ga('send', 'pageview', {
     'hitCallback': function () {
-        window.location = "http://rikerz.github.io/VRC/";
+        window.location = "http://www.corruptedbytes.com";
     }
 });
